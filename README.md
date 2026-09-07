@@ -6,11 +6,11 @@ First of all, thanks for testing! It means a great deal.
 So far, this tool will let you do the following things:
 
 1. Level Select
-2. Create Custom Camos - Importing Normal Maps coming soon
-3. Import your very own Custom Soundtrack - Create your own albums too! - There is currently a bug with custom tracks looping. I'm looking into it and should have it ready for V0.3B
-4. Unlock all in-game soundtracks with the press of a  button
-5. Import / Export Textures
-6. Launcher Skip
+2. Launcher Skip
+3. Create Custom Camos - Importing Normal Maps coming soon
+4. Import your very own Custom Soundtrack - Create your own albums too! It works now. Thank fudge.
+5. Unlock all in-game soundtracks with the press of a button
+6. Import / Export Textures - PNG/DDS/TGA
    
 With a roadmap to add so much more - All in one tool
 
