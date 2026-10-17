@@ -17,10 +17,10 @@ What can you do with MGS4 Dirty Tools:
 
 2. ***(NEW v0.6)*** **Granular HUD Customisation**  
    - Rearrange. Change and Remove HUD elements
-   - Tweak and change the Weapon / Item selection menu animations to a number of different options: Straight, Arc
+   - Tweak and change the Weapon / Item selection menu animations to a number of different options: Straight, Slanted & Curved
    - Change HUD text i.e. OLD SNAKE, PSYCHE, ALERT and more
    - Change the LIFE / Psyche Bar to one of the following health bars inspired by previous Metal Gear games:
-   MGS1, MGS2, MGS3, Peace Walker, Peace Walker (Boss Inspired), Portable Ops and a minimalist 
+   MGS1, MGS2, MGS3, Peace Walker, Peace Walker (Boss Inspired), Portable Ops and a custom Slim inspired by multiple themes. 
    - ***(0.6a)*** Themed Radars after Classic Metal Gear and Peace Walker.
    - ***(0.6a)*** Change the Weapon / Item Select to a Peace Walker inspired menu (Will require Dirty Tools to be open in the background to work properly due to requiring OTF memory patching)
    - ***(0.6a)*** Hide the Stage Transition bars and text
